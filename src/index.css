@@ -81,3 +81,15 @@ button:hover {
   border: 1px solid red;
   height: 70vh;
 }
+
+.item {
+  max-width: 200px;
+  max-height: 200px;
+  border: 1px solid red;
+  margin: 5px;
+  padding: 10px;
+}
+
+.red {
+  color: red;
+}
