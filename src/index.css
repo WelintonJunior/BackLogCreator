@@ -2,10 +2,13 @@
   font-family: sans-serif;
   color: rgba(255, 255, 255, 0.87);
   background-color: #242424;
-  display: flex;
-  align-items: center;
-  justify-content: center;
   height: 100vh;
+  overflow: hidden;
+}
+
+form {
+  padding: 10px;
+  height: 20vh;
 }
 
 input,
@@ -65,4 +68,16 @@ button:hover {
 
   }
 
+}
+
+
+
+
+
+/* --------------------- */
+
+
+.BackLog {
+  border: 1px solid red;
+  height: 70vh;
 }
